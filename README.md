@@ -29,7 +29,7 @@ The world sales is affected by all the above mentioned variables. However, indiv
 **Main Takeaways**:
 
     Learnt about machine learning with categorical data
-    Learnt about pd.melt, _timedelta, str.extract
+    Learnt about new data formatting methods (e.g. pd.melt, _timedelta, str.extract)
 
 
 **References**:
