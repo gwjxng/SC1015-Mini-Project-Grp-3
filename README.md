@@ -1,6 +1,7 @@
 # SC1015-Mini-Project-Grp-3
 Group Members: Gwee Jia Xiang, Solomon Tneo, Xavier Wong
 
+
 Percentage of work done: 
 
                          Gwee Jia Xiang - Coding (?%) + Powerpoint(?%)
@@ -8,6 +9,7 @@ Percentage of work done:
                          Xavier Wong - Coding (?%)+ Powerpoint(?%) + Recording(?%)
                          
 Dataset: Top 1000 Highest Grossing Movie from Kraggle
+
 
 **Problem Statements**:
 
@@ -18,14 +20,17 @@ Dataset: Top 1000 Highest Grossing Movie from Kraggle
 
 Used pandas to extract, analyse and clean the data. Plotted graphs to easily visualise and analyse data. Splitted data into 75:25 train and test data for machine learning using logistic regression. Logistic Regression is used to predict world sales with distributor, release date, movie runtime and genre.
 
+
 **Conclusions**:
 
 The world sales is affected by all the above mentioned variables. However, individually, the variables are bad predictors for world sales yet when combined, world sales can be predicted with 68.8% precision with logistic regression.
+
 
 **Main Takeaways**:
 
     Learnt about machine learning with categorical data
     Learnt about pd.melt, _timedelta, str.extract
+
 
 **References**:
  
