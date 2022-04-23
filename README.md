@@ -1,4 +1,4 @@
-# SC1015-Mini-Project-Grp-3
+# SC1015-Mini-Project-SC5-Grp-3
 Group Members: Gwee Jia Xiang, Solomon Tneo, Xavier Wong
 
 
