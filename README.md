@@ -4,10 +4,10 @@ Group Members: Gwee Jia Xiang, Solomon Tneo, Xavier Wong
 
 Percentage of work done: 
 
-                         Gwee Jia Xiang - Coding (?%) + Powerpoint(?%)
-                         Solomon Tneo - Coding (?%)+ Powerpoint(?%) + Recording(?%)
-                         Xavier Wong - Coding (?%)+ Powerpoint(?%) + Recording(?%)
-                         
+                         Gwee Jia Xiang - Coding (40%) + Powerpoint(33%)
+                         Solomon Tneo - Coding (30%)+ Powerpoint(33%) + Recording(50%)
+                         Xavier Wong - Coding (30%)+ Powerpoint(33%) + Recording(50%)
+
 Dataset: Top 1000 Highest Grossing Movie from Kraggle
 
 
