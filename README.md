@@ -24,6 +24,7 @@ Used pandas to extract, analyse and clean the data. Plotted graphs to easily vis
 **Conclusions**:
 
 The world sales is affected by all the above mentioned variables. However, individually, the variables are bad predictors for world sales yet when combined, world sales can be predicted with 68.8% precision with logistic regression.
+Movies distributed by Walt Disney Studios in the month of April to August, with 90 to 140mins runtime and the adventure genre generally do better with its World Sales. 
 
 
 **Main Takeaways**:
