@@ -14,6 +14,14 @@ Problem Statements:
 
 Used pandas to extract, analyse and clean the data. Plotted graphs to easily visualise and analyse data. Splitted data into 75:25 train and test data for machine learning using logistic regression. Logistic Regression is used to predict world sales with distributor, release date, movie runtime and genre.
 
+Conclusions:
+The world sales is affected by all the above mentioned variables. However, individually, the variables are bad predictors for world sales yet when combined, world sales can be predicted with 68.8% precision with logistic regression.
+
+Main Takeaways:
+Learnt about machine learning with categorical data
+Learnt about pd.melt, _timedelta, str.extract
+
 References:
 https://www.investopedia.com/articles/financial-theory/11/walt-disney-entertainment-to-empire.asp
 https://nofilmschool.com/adventure-genre-in-film-and-tv#:~:text=The%20adventure%20genre%20is%20built%20around%20our%20desire%20to%20search,pure%20escapism%20for%20those%20watchin
+https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
